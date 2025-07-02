@@ -8,9 +8,9 @@ This repository showcases my hands-on experience in **Embedded Systems**, **IoT*
 I'm a motivated and detail-oriented electrical engineer with a strong interest in embedded systems, firmware development, and automation.  
 Through these projects, I gained practical experience in:
 
-- Microcontrollers (ESP32, Arduino Uno)
+- Microcontrollers (ESP32, Arduino Uno R3, Arduino MEGA2560)
 - C/C++ firmware development
-- IoT communication protocols (HTTP, MQTT, Blynk)
+- IoT communication protocols (HTTP, MQTT, Blynk, WiFi)
 - PCB design and prototyping
 - Soldering and hardware debugging
 - Working with sensors, relays, IR receivers, and RF modules
