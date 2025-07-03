@@ -1,6 +1,6 @@
 # 🎓 Engineering Projects Portfolio
 
-Welcome to my personal portfolio of projects developed during my studies in Electrical and Computer Engineering.  
+Welcome to my personal portfolio of projects developed during my studies on Faculty of Electronic Engineering, Nis.  
 This repository showcases my hands-on experience in **Embedded Systems**, **IoT**, **Digital & Analog Electronics**and **RF**.
 
 ## 📌 About Me
@@ -8,7 +8,7 @@ This repository showcases my hands-on experience in **Embedded Systems**, **IoT*
 I'm a motivated and detail-oriented electrical engineer with a strong interest in embedded systems, firmware development, and automation.  
 Through these projects, I gained practical experience in:
 
-- Microcontrollers (ESP32, Arduino Uno R3, Arduino MEGA2560)
+- Microcontrollers (ESP32 NodeMCU, Arduino Uno R3, Arduino MEGA2560, STM)
 - C/C++ firmware development
 - IoT communication protocols (HTTP, MQTT, Blynk, WiFi)
 - PCB design and prototyping
