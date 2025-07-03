@@ -31,7 +31,7 @@ Here’s a short summary of the folders in this repository:
 
 **RaspberryPi_camera_server** - A guide to building a simple camera server using Raspberry Pi. Covers software setup, video streaming, and remote access.
 
-**Realisation_of_smart_dustbin** -  Smart trash bin project using the HC-SR04 ultrasonic sensor and a servo motor, capable of detecting garbage levels and responding automatically.
+**Realisation_of_smart_dustbin** -  Smart dustbin project using the HC-SR04 ultrasonic sensor and a servo motor, capable of detecting garbage levels and responding automatically.
 
 **Realisation_smart_switch** - Description of a smart switch controlled via IR and Wi-Fi (ESP32) and Mobile application (Blynk), with circuit diagrams and application use cases.
 
@@ -44,6 +44,5 @@ These projects reflect my passion for building real-world systems that combine h
 ## 📫 Contact
 
 If you're interested in any project or collaboration, feel free to contact me:
-
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/aleksandar-pantovic981075305/)  
+  
 - Email: pantovicaleksandar9@gmail.com
