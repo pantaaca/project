@@ -7,7 +7,7 @@ This repository showcases my hands-on experience in **Embedded Systems**, **IoT*
 
 ## 📌 About Me
 
-I'm a motivated and detail-oriented electrical engineer with a strong interest in embedded systems, firmware development, and automation.  
+I'm a motivated and detail-oriented electronics engineer with a strong interest in embedded systems, firmware development, and automation.  
 Through these projects, I gained practical experience in:
 
 - Microcontrollers (ESP32 NodeMCU, Arduino Uno R3, Arduino MEGA2560, STM32F750DK, RasperryPi 4)
