@@ -3,11 +3,11 @@
 Welcome to my Electronics Projects Portfolio!
 
 This repository contains a collection of projects I have worked on during my studies at the Faculty of Electronic Engineering in Niš as well as projects completed after graduation. 
-This repository showcases my hands-on experience in **Embedded Systems**, **IoT**, **Digital & Analog Electronics**, **Hardware design** and **RF Electronic**.
+This repository showcases my hands-on experience in **Embedded Systems**, **IoT**, **Digital & Analog Electronics** and **RF Electronic**.
 
 ## 📌 About Me
 
-I'm a motivated and detail-oriented electronics engineer with a strong interest in embedded systems, firmware development, and hardware.  
+I'm a motivated and detail-oriented electronics engineer with a strong interest in embedded systems, firmware development, and hardware design.  
 Through these projects, I gained practical experience in:
 
 - Microcontrollers (ESP32 NodeMCU, Arduino Uno R3, Arduino MEGA2560, STM32F750DK, RasperryPi 4)
