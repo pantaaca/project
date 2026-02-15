@@ -41,6 +41,8 @@ Here’s a short summary of the folders in this repository:
 
 **Power Supply Unit (3.3V, 5V, 12V, 0-12V)** - This project presents a power supply built using a recycled ATX computer PSU. Fixed DC outputs of 3.3 V, 5 V, and 12 V are available directly from the ATX supply. An adjustable output (0–12 V) is implemented using a step-down DC/DC converter, allowing precise voltage control. The power supply is equipped with digital voltmeter and ammeter modules, enabling real-time monitoring of both voltage and current on all outputs. Additional features include short-circuit detection, making the system safer for testing electronics and prototyping applications.
 
+**Fume Extractor** - This project describes a compact fume extractor used to remove smoke and vapors produced during soldering and similar activities. The first fan draws contaminated air into the enclosure, where it passes through an activated carbon filter that absorbs harmful particles and odors. A second fan then expels the filtered air back into the environment. The device features adjustable fan speed control, allowing the user to balance airflow and noise level. It operates on a 12 V DC power supply and is suitable for electronics workbenches, workshops, and hobby use.
+
 
 ## 🚀 Goal
 
